@@ -43,7 +43,7 @@ Jogo desenvolvido em **HTML, CSS e JavaScript**, com foco em lógica, manipulaç
 - Interface responsiva
 - Efeitos sonoros
 
-🔗 **Repositório:** https://github.com/seu-usuario/jogo-da-memoria  
+🔗 **Repositório:** https://github.com/joaoalves-devv/Jogo-de-memoria-com-emojis/  
 🌐 **Demo:** https://joaoalves-devv.github.io/Jogo-de-memoria-com-emojis/
 
 ---
@@ -58,8 +58,35 @@ Aplicação simples para organização de tarefas, com foco em JavaScript puro.
 - Interface responsiva
 - Ordenação
 
-🔗 **Repositório:** https://github.com/seu-usuario/todo-list  
+🔗 **Repositório:** https://github.com/joaoalves-devv/lista-de-tarefas  
 🌐 **Demo:** https://joaoalves-devv.github.io/lista-de-tarefas/
+
+---
+
+### 🔍 Pokédex (API Pokémon)
+Aplicação Front-end desenvolvida em **HTML, CSS e JavaScript**, consumindo a **PokéAPI** para exibição dinâmica dos Pokémon da **1ª geração**.
+
+**Principais conceitos aplicados:**
+- Consumo de API REST com `fetch`
+- Paginação de dados (offset e limit)
+- Manipulação do DOM
+- Programação assíncrona (`Promises`)
+- Organização de código em funções reutilizáveis
+- Conversão de dados da API para objetos customizados
+
+**Funcionalidades:**
+- Listagem dinâmica de Pokémon
+- Paginação com botão “Carregar mais”
+- Limite de exibição até 151 Pokémon
+- Exibição de:
+  - Número
+  - Nome
+  - Tipo(s)
+  - Imagem oficial
+- Estilização baseada no tipo do Pokémon
+
+🔗 **Repositório:** https://github.com/joaoalves-devv/js-developer-pokedex   
+🌐 **Demo:** https://joaoalves-devv.github.io/js-developer-pokedex/
 
 ---
 
